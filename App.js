@@ -1,7 +1,7 @@
 /* eslint-disable react-native/no-inline-styles */
 /* eslint-disable prettier/prettier */
 import React from 'react';
-import { SafeAreaView, View, StyleSheet } from 'react-native';
+import { SafeAreaView, View,Text, StyleSheet } from 'react-native';
 import Cart from './Cart';
 
 // import AntDesign from 'react-native-vector-icons/AntDesign';
